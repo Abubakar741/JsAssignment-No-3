@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: blue;
+}
+.center{
+    text-align: center;
+}
+#btn{
+    margin-top: 6px;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+#blu{
+    background-color: blue;
+}
+.clear{
+    float: right;
+    margin-right: 250px;
+    margin-top: 8px;
+}
+.cleare {
+    margin-left: 200px;
+    padding: 5px;
+    margin-top: 8px;
+}
+.cleare:hover{
+    background-color: black;
+    color: azure;
+}
+.btna:hover{
+    background-color: rgb(138, 51, 51);
+    color: beige;
+}
